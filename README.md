@@ -15,5 +15,5 @@
 
 
 ![Githubstats](https://github-readme-stats.vercel.app/api?username=anasboyka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasboyka&theme=radical)](https://github.com/anasboyka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasboyka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)(https://github.com/anasboyka/github-readme-stats)
 
