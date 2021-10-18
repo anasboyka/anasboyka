@@ -14,4 +14,5 @@
 <!-- ⚡ Fun fact: ... -->
 
 
-![Githubstats](https://github-readme-stats.vercel.app/api?username=anasboyka&theme=radical)
+![Githubstats](https://github-readme-stats.vercel.app/api?username=anasboyka&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasboyka)](https://github.com/anasboyka/github-readme-stats)
+
