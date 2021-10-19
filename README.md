@@ -19,7 +19,7 @@
 <!--(https://github.com/anasboyka/github-readme-stats)-->
 <img src="https://wakatime.com/share/@anasboyka/8db6b761-1894-44e3-8eb4-02639da0c0e4.svg">
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anasboyka)-->
-[![Anas's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasboyka&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Anas's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasboyka&theme=github)]
 
 
 
