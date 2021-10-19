@@ -18,6 +18,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasboyka&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 <!--(https://github.com/anasboyka/github-readme-stats)-->
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anasboyka)-->
+[![Anas's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasboyka)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
