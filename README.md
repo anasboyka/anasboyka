@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasboyka&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 <!--(https://github.com/anasboyka/github-readme-stats)-->
 ![Anas's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasboyka&theme=github)
-![Anas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anasboyka&v=2)
+![Anas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anasboyka)
 <img src="https://wakatime.com/share/@anasboyka/b1417864-67e0-4b8b-9d61-43c23c27b94c.svg">
 
 
