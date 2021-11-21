@@ -14,7 +14,7 @@
 <!-- ⚡ Fun fact: ... -->
 
 
-![Githubstats](https://github-readme-stats.vercel.app/api?username=anasboyka&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
+![Githubstats](https://github-readme-stats.vercel.app/api?username=anasboyka&count_private=true&include_all_commits=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasboyka&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 <!--(https://github.com/anasboyka/github-readme-stats)-->
 ![Anas's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasboyka&theme=github)
